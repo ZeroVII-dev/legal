@@ -1,3 +1,7 @@
 remote_theme: pages-themes/slate@v0.2.0
+
+title: ZeroVII Legal Hub
+description: Legal Documentation & Developer Policies for ZeroVII Apps
+
 plugins:
   - jekyll-remote-theme
